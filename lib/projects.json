@@ -1,0 +1,86 @@
+[
+  {
+    "title": "DonkeyCar Vision Control",
+    "year": 2026,
+    "image": "images/vision.JPG",
+    "description": "A DSC190 team project testing camera-based line and lane following with Python, OpenCV, and PID control. My work focused on the single-line follower and physical testing. The line follower completed three consecutive laps on our course track.",
+    "url": "https://github.com/srhie2/donkeycar-vision-control"
+  },
+  {
+    "title": "Income and Voter Participation",
+    "year": 2026,
+    "image": "images/vote.jpg",
+    "description": "A COGS108 team project studying the association between neighborhood income and voter participation in California in 2022 and 2024. I contributed to research question design and data curation.",
+    "url": "https://github.com/COGS108/Group141_WI26/blob/master/03-FinalProject.ipynb"
+  },
+  {
+    "title": "League of Legends Match Analysis",
+    "year": 2026,
+    "image": "images/lol.jpeg",
+    "description": "A DSC80 course project analyzing professional League of Legends match data with pandas and Plotly. I explored missing data, hypothesis testing, and match-outcome classification using logistic regression and gradient boosting.",
+    "url": "https://github.com/srhie2/dsc80-lol-prediction"
+  },
+    {
+    "title": "Personal Portfolio Website",
+    "year": 2026,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A personal portfolio website built for DSC106 using HTML, CSS, and JavaScript. It includes project cards loaded from JSON, a theme selector, and GitHub profile statistics fetched from an API.",
+    "url": "https://github.com/srhie2/portfolio"
+  },
+  {
+    "title": "Sample Project 5",
+    "year": 2024,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a placeholder project. Details will be added later.",
+    "url": ""
+  },
+  {
+    "title": "Sample Project 6",
+    "year": 2024,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a placeholder project. Details will be added later.",
+    "url": ""
+  },
+  {
+    "title": "Sample Project 7",
+    "year": 2025,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a placeholder project. Details will be added later.",
+    "url": ""
+  },
+  {
+    "title": "Sample Project 8",
+    "year": 2025,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a placeholder project. Details will be added later.",
+    "url": ""
+  },
+  {
+    "title": "Sample Project 9",
+    "year": 2025,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a placeholder project. Details will be added later.",
+    "url": ""
+  },
+  {
+    "title": "Sample Project 10",
+    "year": 2026,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a placeholder project. Details will be added later.",
+    "url": ""
+  },
+  {
+    "title": "Sample Project 11",
+    "year": 2026,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a placeholder project. Details will be added later.",
+    "url": ""
+  },
+  {
+    "title": "Sample Project 12",
+    "year": 2026,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a placeholder project. Details will be added later.",
+    "url": ""
+  }
+]

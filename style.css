@@ -132,3 +132,23 @@ h6 {
   object-fit: contain;
   background-color: color-mix(in oklch, canvastext 5%, canvas 95%);
 }
+
+#profile-stats dl {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.5rem 1rem;
+  text-align: center;
+  margin-block: 1rem 2rem;
+}
+
+#profile-stats dt {
+  grid-row: 1;
+  font-size: 0.9rem;
+}
+
+#profile-stats dd {
+  grid-row: 2;
+  margin: 0;
+  font-size: 2rem;
+  font-weight: bold;
+}
