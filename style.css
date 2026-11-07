@@ -260,3 +260,95 @@ h6 {
   outline: 2px solid var(--color-accent);
   outline-offset: 3px;
 }
+
+#stats .stats {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.5rem 2rem;
+  max-width: 30rem;
+}
+
+#stats dt {
+  color: gray;
+}
+
+#stats dd {
+  margin: 0;
+  font-weight: bold;
+}
+
+#chart svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#chart .gridlines line {
+  stroke: gray;
+  stroke-opacity: 0.2;
+}
+
+#chart .gridlines path {
+  display: none;
+}
+
+dl.info {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.4rem 1rem;
+  margin: 0;
+  transition: opacity 200ms, visibility 200ms;
+}
+
+dl.info dt {
+  color: gray;
+}
+
+dl.info dd {
+  margin: 0;
+}
+
+.tooltip {
+  position: fixed;
+  background-color: canvas;
+  color: canvastext;
+  padding: 1rem;
+  border: 1px solid gray;
+  border-radius: 6px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
+  z-index: 10;
+}
+
+dl.info[hidden]:not(:hover, :focus-within) {
+  opacity: 0;
+  visibility: hidden;
+}
+
+#chart circle {
+  transition: transform 200ms;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#chart circle:hover {
+  transform: scale(1.5);
+}
+
+#chart circle.selected {
+  fill: #ff6b6b;
+}
+
+#language-breakdown {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.5rem 2rem;
+  max-width: 30rem;
+}
+
+#language-breakdown dt {
+  font-weight: bold;
+}
+
+#language-breakdown dd {
+  margin: 0;
+}

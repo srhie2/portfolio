@@ -23,16 +23,16 @@
     {
     "title": "Personal Portfolio Website",
     "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "image": "images/portfolio.png",
     "description": "A personal portfolio website built for DSC106 using HTML, CSS, and JavaScript. It includes project cards loaded from JSON, a theme selector, and GitHub profile statistics fetched from an API.",
     "url": "https://github.com/srhie2/portfolio"
   },
   {
-    "title": "Sample Project 5",
-    "year": 2024,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "This is a placeholder project. Details will be added later.",
-    "url": ""
+  "title": "Protein Bars: Cost vs. Sugar",
+  "year": 2026,
+  "image": "images/protein_bar_preview.png",
+  "description": "I compared 57 Whole Foods protein bars per 10 g of protein. For 49 of them, I found another option that cost less and had less sugar.",
+  "url": "https://github.com/srhie2/dsc106-project1"
   },
   {
     "title": "Sample Project 6",
@@ -71,14 +71,14 @@
   },
   {
     "title": "Sample Project 11",
-    "year": 2026,
+    "year": 2024,
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "This is a placeholder project. Details will be added later.",
     "url": ""
   },
   {
     "title": "Sample Project 12",
-    "year": 2026,
+    "year": 2022,
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "This is a placeholder project. Details will be added later.",
     "url": ""
