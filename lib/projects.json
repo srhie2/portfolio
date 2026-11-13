@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bikewatching",
+    "year": 2026,
+    "image": "images/bikewatching.png",
+    "description": "Explore bike traffic in Boston and Cambridge. Move the time slider to see which stations have more departures or arrivals.",
+    "url": "https://srhie2.github.io/bikewatching/"
+  },
+  {
     "title": "DonkeyCar Vision Control",
     "year": 2026,
     "image": "images/vision.JPG",
@@ -20,7 +27,7 @@
     "description": "A DSC80 course project analyzing professional League of Legends match data with pandas and Plotly. I explored missing data, hypothesis testing, and match-outcome classification using logistic regression and gradient boosting.",
     "url": "https://github.com/srhie2/dsc80-lol-prediction"
   },
-    {
+  {
     "title": "Personal Portfolio Website",
     "year": 2026,
     "image": "images/portfolio.png",
@@ -28,22 +35,15 @@
     "url": "https://github.com/srhie2/portfolio"
   },
   {
-  "title": "Protein Bars: Cost vs. Sugar",
-  "year": 2026,
-  "image": "images/protein_bar_preview.png",
-  "description": "I compared 57 Whole Foods protein bars per 10 g of protein. For 49 of them, I found another option that cost less and had less sugar.",
-  "url": "https://github.com/srhie2/dsc106-project1"
-  },
-  {
-    "title": "Sample Project 6",
-    "year": 2024,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "This is a placeholder project. Details will be added later.",
-    "url": ""
+    "title": "Protein Bars: Cost vs. Sugar",
+    "year": 2026,
+    "image": "images/protein_bar_preview.png",
+    "description": "I compared 57 Whole Foods protein bars per 10 g of protein. For 49 of them, I found another option that cost less and had less sugar.",
+    "url": "https://github.com/srhie2/dsc106-project1"
   },
   {
     "title": "Sample Project 7",
-    "year": 2025,
+    "year": 2024,
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "This is a placeholder project. Details will be added later.",
     "url": ""
@@ -64,7 +64,7 @@
   },
   {
     "title": "Sample Project 10",
-    "year": 2026,
+    "year": 2025,
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "This is a placeholder project. Details will be added later.",
     "url": ""

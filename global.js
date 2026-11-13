@@ -121,7 +121,7 @@ export function renderProjects(
          <a href="${project.url}"
             target="_blank"
             rel="noopener noreferrer">
-           View project on GitHub
+           View project
          </a>`
       : '';
 
